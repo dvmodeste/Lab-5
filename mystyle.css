@@ -1,8 +1,9 @@
 body{
   background-image:url(img/background.jpg);
   font-family:"Gorgia";
-  font-size:30px;
-   text-align: center;
+  font-size:20px;
+  text-align: center;
+  color:white;
 }
 
 #title{
