@@ -1,7 +1,7 @@
 body{
   background-image:url(img/background.jpg);
   font-family:"Gorgia";
-  font-size:20px;
+  font-size:25px;
   text-align: center;
   color:white;
 }
@@ -20,7 +20,7 @@ body{
 table{
   table-layout: fixed;
   border-collapse: collapse;
-  background-color: rgb( 255, 255,255);
+  background-color: rgba( 255, 255,255,1);
 }
 
 th,td{
