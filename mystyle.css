@@ -27,18 +27,3 @@ th,td{
   color:white;
   text-align: center;
 }
-
-
-.charac{
-  text-shadow : 6px 6px 5px #ff00de;
-}
-
-.earth,.mars{
-  color:white;
-  text-shadow : 6px 6px 5px #FFFFFF;
-}
-
-.mercury,.saturn{
-  color:white;
-  text-shadow : 6px 6px 5px #D9E5FF;
-}
