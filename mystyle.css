@@ -20,7 +20,7 @@ body{
 table{
   table-layout: fixed;
   border-collapse: collapse;
-  background-color: rgba( 255, 255,255,1);
+  background-color: rgba( 255, 255,255,0);
 }
 
 th,td{
